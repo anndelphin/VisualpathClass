@@ -1,0 +1,9 @@
+How to print numbers and apahabets in python?
+k="ravi 96527626 gmail"
+print(k)
+s=k.split(" ")
+print(len(s))`
+for i in s:
+    print(i,type(i))
+    print("Is Alpha",i.isalpha())
+    print(i.isdecimal())
