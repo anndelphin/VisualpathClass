@@ -4,3 +4,9 @@ sum=0
 for i in k:
     sum=sum+i
 print(sum)
+#print(sum(k))
+for j in k:
+    m=m*i
+    print(m)
+
+ 
