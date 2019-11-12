@@ -7,7 +7,13 @@ for n in range(num):
 print("Sum of elements in given list is :", sum(lst))
 
 
-#2. Write a Python program to multiplies all the items in a list.
+#Another Method for to get the largest number from a list.
+ls=[1,2,3]
+sum=0
+for i in ls:
+    sum=sum+i
+print(sum)
+
 
 
 
