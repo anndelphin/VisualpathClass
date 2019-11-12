@@ -16,4 +16,9 @@ k=[2,2,2,2,4,5,6,1]
 print(z(k))
 
 #Using Normal Loop
-k=
+k=[2,2,2,2,4,5,6,1]
+f=[]
+for i in k:
+  if i not in f:
+    f.append(i)
+print(f)
