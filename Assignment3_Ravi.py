@@ -1,4 +1,4 @@
-#Write a Python program to check a list is empty or not
+#8.Write a Python program to check a list is empty or not
 k=[1,2,5,4,3]
 if len(k)==0:
   print("The List is empty")
