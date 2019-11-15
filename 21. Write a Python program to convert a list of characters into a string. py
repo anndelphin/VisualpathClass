@@ -1,0 +1,6 @@
+#21. Write a Python program to convert a list of characters into a string. 
+k=['Ravi','Prasad']
+for i in k:
+    print(i)
+
+print(type(str(k)))
