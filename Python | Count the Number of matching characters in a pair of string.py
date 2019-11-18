@@ -17,3 +17,15 @@ s1=set(str1)
 s2=set(str2)
 m=s1&s2
 print("the Number of matched Elements in the strings are:",str(len(m)))
+
+
+
+st="Ravi12"
+s="Rav"
+c=0
+j=0
+for i in st:
+    if i in s:
+        c+=1
+    
+print(c)
