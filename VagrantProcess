@@ -1,0 +1,19 @@
+STEP-1:
+GOTO Visual_path Daily_class path
+
+STEP-2:
+type vagrant init
+
+STEP-3:
+in Visual_path Daily_class open vagrant folder
+in that you have change what ever OS you want
+
+STEP-4:
+vagrant up
+
+STEP-5:
+vagrant ssh
+
+STEP-6:
+Now your in Linux OS
+
